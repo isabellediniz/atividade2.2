@@ -1,0 +1,150 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    height: 50px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+    width: 100%;
+    background-color: #0d986a;
+    border-radius: 0px 0px 0px 70px;
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f2f2f2;
+}
+
+topoesquerdo{
+    color: white;
+}
+
+.usuario{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: -30px;
+}
+
+.botao{
+    width: 50px;
+    right: 50px;
+}
+
+.icones{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+
+.textoicones{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.texto{
+    width: 50px;
+    right: 50px;
+    text-align: center;
+}
+
+h3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lugares{
+    display: flex;
+    width: 100%;
+}
+
+.lugar{
+    border-radius: 20px;
+    justify-content: space-around;
+}
+
+.imgdireito{
+    justify-content: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.imgesquerdo{
+    margin: 10px;
+    padding: 10px;
+    justify-content: right;
+}
+
+img{
+    width: 100%;
+}
+
+.menu{
+    background-color: #0d986a;
+    position: fixed;
+    margin-left: 12px;
+    top: 92%;
+    width: 94%;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.aviao{
+    width: 30px;
+}
+
+.aviao1{
+    position: relative;
+    top: 1px;
+}
+
+.predio{
+    width: 30px;
+}
+
+.predio1{
+    position: relative;
+}
+
+.mala{
+    width: 30px;
+}
+
+.mala1{
+    position: relative;
+}
+
+.pessoa{
+    width: 30px;
+}
+
+.pessoa1{
+    position: relative;
+}
